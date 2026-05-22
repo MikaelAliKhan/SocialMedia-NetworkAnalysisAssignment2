@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+scikit-learn
+vaderSentiment
+transformers
+torch
+matplotlib
+seaborn
+python-louvain
+requests
