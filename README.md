@@ -1,12 +1,18 @@
 # COSC2671 Assignment 2: Social Media and Network Analysis
 
-## Project title
+## Project Title
 Diffusion of Trump's 2025 Tariff Discourse Across Australian Reddit: A Network and Frame Analysis
 
-## Research question
+Undergraduate Group 19
+Members:
+- Aryan Jain (s4075182)
+- Brigitte Sharon Alexander (s4189446)
+- Mikael Ali Khan (s4089675)
+
+## Research Question
 How did Trump's 2025 tariff announcements diffuse through Australian Reddit communities, who were the most influential users driving the discourse, and how was the discourse framed across subreddits and the wider reply network?
 
-## Repository contents
+## Repository Content
 - `SMNA-A2.ipynb` — main analysis notebook used to produce the report results and figures.
 - `reddit_posts.csv` — collected Reddit post-level dataset.
 - `reddit_comments.csv` — collected Reddit comment-level dataset.
@@ -14,7 +20,7 @@ How did Trump's 2025 tariff announcements diffuse through Australian Reddit comm
 - `data/` — processed analysis outputs used for tables and validation.
 - `figures/` — final figures used in the report.
 
-## Analysis pipeline
+## Analysis Pipeline
 1. Collect and preprocess Reddit posts/comments from six Australian subreddits.
 2. Construct a directed weighted reply network where users are nodes and replies are edges.
 3. Compute centrality measures to identify different user roles.
