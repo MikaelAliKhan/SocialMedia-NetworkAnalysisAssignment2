@@ -1,7 +1,5 @@
 ﻿COSC3047 Assignment 2 Access File
-
-Level: Undergraduate
-Group: 19
+Undergraduate Group 19
 
 Group members:
 - Aryan Jain (s4075182)
